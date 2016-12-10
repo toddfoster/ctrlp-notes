@@ -15,6 +15,9 @@ To load this extension into ctrlp, add this to your vimrc:
 * This plugin assumes you have vim-notes installed and configured.
 * Run `:CtrlPNotes` to invoke Ctrl-P with a list of your notes.
 * All CtrlP shortcuts/commands should apply.
+* You might want to create a shortcut in your .vimrc like so:
+
+    nnoremap <C-N> :CtrlPNotes<CR>
 
 
 
