@@ -17,6 +17,7 @@ To load this extension into ctrlp, add this to your vimrc:
 * All CtrlP shortcuts/commands should apply.
 * You might want to create a shortcut in your .vimrc like so:
 
+
     nnoremap <C-N> :CtrlPNotes<CR>
 
 
