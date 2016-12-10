@@ -1,5 +1,8 @@
 " =============================================================================
-" Description:   Extension for ctrlp.vim. Open note files using Note:
+" autoload/ctrlp/notes
+" Description:   Extension to bridge ctrlpvim/ctrlp.vim and xolox/vim-notes.
+" Open note files using Note:
+" Based on sample.vim from kien/ctrlp.vim
 " =============================================================================
 
 " To load this extension into ctrlp, add this to your vimrc:
